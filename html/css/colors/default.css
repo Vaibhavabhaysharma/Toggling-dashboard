@@ -34,10 +34,10 @@ File: scss
 /*General Elements
 *******************/
 a.link:hover, a.link:focus {
-  color: #20aee3 !important; }
+  color: #0079a7 !important; }
 
 .bg-theme {
-  background-color: #20aee3 !important; }
+  background-color: #0079a7 !important; }
 
 .pagination > .active > a,
 .pagination > .active > span,
@@ -45,61 +45,61 @@ a.link:hover, a.link:focus {
 .pagination > .active > span:hover,
 .pagination > .active > a:focus,
 .pagination > .active > span:focus {
-  background-color: #20aee3;
-  border-color: #20aee3; }
+  background-color: #0079a7;
+  border-color: #0079a7; }
 
 .right-sidebar .rpanel-title {
-  background: #20aee3; }
+  background: #0079a7; }
 
 .stylish-table tbody tr:hover, .stylish-table tbody tr.active {
-  border-left: 4px solid #20aee3; }
+  border-left: 4px solid #0079a7; }
 
 .text-themecolor {
-  color: #20aee3 !important; }
+  color: #0079a7 !important; }
 
 .profile-tab li a.nav-link.active,
 .customtab li a.nav-link.active {
-  border-bottom: 2px solid #20aee3;
-  color: #20aee3; }
+  border-bottom: 2px solid #0079a7;
+  color: #0079a7; }
 
 .profile-tab li a.nav-link:hover,
 .customtab li a.nav-link:hover {
-  color: #20aee3; }
+  color: #0079a7; }
 
 /*******************
 /*Buttons
 *******************/
 .btn-themecolor,
 .btn-themecolor.disabled {
-  background: #20aee3;
+  background: #0079a7;
   color: #ffffff;
-  border: 1px solid #20aee3; }
+  border: 1px solid #0079a7; }
   .btn-themecolor:hover,
   .btn-themecolor.disabled:hover {
-    background: #20aee3;
+    background: #0079a7;
     opacity: 0.7;
-    border: 1px solid #20aee3; }
+    border: 1px solid #0079a7; }
   .btn-themecolor.active, .btn-themecolor:focus,
   .btn-themecolor.disabled.active,
   .btn-themecolor.disabled:focus {
-    background: #028ee1; }
+    background: #0079a7; }
 
 /*******************
 /*sidebar navigation
 *******************/
 .label-themecolor {
-  background: #20aee3; }
+  background: #0079a7; }
 
 .sidebar-nav > ul > li.active > a {
-  color: #20aee3;
-  border-color: #20aee3; }
+  color: #0079a7;
+  border-color: #0079a7; }
   .sidebar-nav > ul > li.active > a i {
-    color: #20aee3; }
+    color: #0079a7; }
 
 .sidebar-nav ul li a.active, .sidebar-nav ul li a:hover {
-  color: #20aee3; }
+  color: #0079a7; }
   .sidebar-nav ul li a.active i, .sidebar-nav ul li a:hover i {
-    color: #20aee3; }
+    color: #0079a7; }
 
 .sidebar-nav > ul > li > a i {
   color: #787f91; }
