@@ -1,9 +1,3 @@
-/*
-Template Name: Admin Pro Admin
-Author: Wrappixel
-Email: niravjoshi87@gmail.com
-File: scss
-*/
 /**
  * Table Of Content
  *
@@ -16,23 +10,11 @@ File: scss
  *	7. Widgets
  *	8. Custom Templates
  */
-/*
-Template Name: Admin Pro Admin
-Author: Wrappixel
-Email: niravjoshi87@gmail.com
-File: scss
-*/
 /*Theme Colors*/
 /*bootstrap Color*/
 /*Light colors*/
 /*Normal Color*/
 /*Extra Variable*/
-/*
-Template Name: Admin Pro Admin
-Author: Wrappixel
-Email: niravjoshi87@gmail.com
-File: scss
-*/
 /**
  * Table Of Content
  *
@@ -49,12 +31,12 @@ File: scss
 /******************* 
 Global Styles 
 *******************/
+
 @import url(../scss/icons/font-awesome/css/font-awesome.min.css);
 @import url(../css/spinners.css);
 @import url(../css/animate.css);
 * {
   outline: none; }
-
 body {
   background: #fff;
   font-family: "Montserrat", sans-serif;
@@ -861,7 +843,7 @@ sidebar navigation
 /****************
 When click on sidebar toggler and also for tablet
 *****************/
-@media (min-width: 768px) {
+@media (min-width: 68px) {
   .mini-sidebar .sidebar-nav #sidebarnav li {
     position: relative; }
   .mini-sidebar .sidebar-nav #sidebarnav > li > ul {
@@ -916,7 +898,7 @@ When click on sidebar toggler and also for tablet
     .mini-sidebar .sidebar-nav #sidebarnav > li:hover > a .label {
       display: none; } }
 
-@media (max-width: 767px) {
+@media (max-width: 67px) {
   .mini-sidebar .left-sidebar {
     position: fixed; }
   .mini-sidebar .left-sidebar,
